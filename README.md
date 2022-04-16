@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Delivernow Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstracted with reactjs. It is a food ordering app that will deliver your stuff to your doorsteps.
 
 ## Available Scripts
 
